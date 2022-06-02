@@ -2,7 +2,7 @@
   "name": "TestApp",
   "version": "0.0.1",
   "author": "Ionic Framework",
-  "homepage": "http://githubname.github.io/repository",
+  "homepage": "https://github.com/iliyas12345/UseCase",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
